@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "service-provider",
-    "slug": "service-provider",
+    "name": "business-directory",
+    "slug": "business-directory",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
